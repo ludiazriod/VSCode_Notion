@@ -10,7 +10,8 @@
     "Other"
   ],
   "activationEvents": [
-    "onCommand:autocompletednotion.helloWorld"
+    "onCommand:autocompletednotion.helloWorld",
+    "onOpenExternalUri"
   ],
   "extensionDependencies": [
     "vscode.git"
